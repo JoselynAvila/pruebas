@@ -18,6 +18,7 @@ public class Git {
         *se pone en verde
         */
         System.out.println(c.suma());
+        System.out.println(c.resta());
     }
     
 }
