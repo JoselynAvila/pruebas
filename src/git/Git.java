@@ -17,6 +17,7 @@ public class Git {
         /* todo lo nuevo que registres(en comparacion a la version anterior) 
         *se pone en verde
         */
+        System.out.println(c.suma());
     }
     
 }
