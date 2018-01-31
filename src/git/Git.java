@@ -11,11 +11,12 @@ package git;
  */
 public class Git {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
+        Calculadora c=new Calculadora(4,2);
+        /* todo lo nuevo que registres(en comparacion a la version anterior) 
+        *se pone en verde
+        */
     }
     
 }
