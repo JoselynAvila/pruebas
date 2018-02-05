@@ -23,5 +23,7 @@ public class Calculadora {
     public int resta(){
         return n1-n2;
     }
-    
+     public int multi(){
+        return n1*n2;
+    }
 }

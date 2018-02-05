@@ -19,6 +19,8 @@ public class Git {
         */
         System.out.println(c.suma());
         System.out.println(c.resta());
+        System.out.println(c.multi());
+        
     }
     
 }
